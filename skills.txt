@@ -1,0 +1,12 @@
+Linux
+Bash
+Git
+GitHab
+API
+HTTP/HTTPS
+SQL
+Postman
+Web Testing
+Mobile Testing
+JMeter
+VPN
